@@ -1,5 +1,0 @@
-{
-  "name": "FullscreenTemplate",
-  "description": "A template to make Unity WebGL build fullscreen by default.",
-  "fullscreen": true
-}
